@@ -1,0 +1,13 @@
+.bgvideo {
+    height: 70vh;
+    width: 70%;
+    position: relative;
+}
+.bgvideo video{
+    height: 70vh;
+    width: 70%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
